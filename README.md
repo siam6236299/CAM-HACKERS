@@ -12,6 +12,8 @@ git clone https://github.com/siam6236299/CAM-HACKERS
 
 cd CAM-HACKERS
 
-pip install -r requirements.txt
+
+
+python -m pip install requests
 
 python 'CAM HACKERS.py'
